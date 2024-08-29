@@ -49,3 +49,6 @@ The Power BI dashboard includes the following visualizations:
 ## Conclusion
 
 This project provides a clear understanding of the fast-food industry's landscape in the United States. The Power BI dashboard is an effective tool for visualizing data and identifying trends across the top 50 fast-food chains, making it easier for stakeholders to make data-driven decisions.
+
+![image](https://github.com/user-attachments/assets/4a19f1a9-7d21-467e-bbbd-2596ab12c97a)
+
